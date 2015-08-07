@@ -1,1 +1,7 @@
-nbproject/
+*.png
+*.jpg
+*.gif
+images/*.png
+
+
+js/*.*

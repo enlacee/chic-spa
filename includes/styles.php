@@ -17,8 +17,10 @@ function enqueue_styles() {
 	wp_enqueue_style( 'bootstrap' );
 	wp_register_style( 'bootstrap-responsive', THEME_DIR .'/css/bootstrap-responsive.css', array(), '3', 'all'  );
 	wp_enqueue_style( 'bootstrap-responsive');
+	
 	wp_register_style( 'main-style', THEME_DIR . '/style.css', array(), '4', 'all' ); 
 	wp_enqueue_style( 'main-style' );
+
 	wp_register_style( 'media', THEME_DIR .'/css/media.css', array(), '5', 'all'  );
 	wp_enqueue_style( 'media');
 	wp_register_style( 'bxslider', THEME_DIR .'/css/bxslider.css', array(), '6', 'all'  );

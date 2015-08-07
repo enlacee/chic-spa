@@ -499,7 +499,7 @@ margin-right:40px;
 width:100%;
 
 height:auto;
-background:#eee1d1;
+background:#e8f6c2;
 font-family:"rouge script";
 font-size:36px;
 color:#7d1551;
@@ -522,7 +522,7 @@ margin-left:auto;
 margin-right:auto;
 font-family:"rouge script";
 font-size:36px;
-color:#7d1551;
+color:#4e6216;
 }
 
 
@@ -559,7 +559,7 @@ width:281px;
 height:281px;
 margin:0 auto 38px auto;
 background: transparent center center no-repeat;
-border:#e2d4c3 solid 5px;
+border:#e8f6c2 solid 5px;
 border-radius:100%;
 -moz-border-radius:100%;
 -webkit-border-radius:100%;
@@ -584,6 +584,8 @@ border:#e2d4c3 solid 5px;
 border-radius:100%;
 -moz-border-radius:100%;
 -webkit-border-radius:100%;
+
+
 }
 
 .decoration{
@@ -603,7 +605,7 @@ font-family:open sans;
 font-size:14px;
 background:url(images/button1.png) top left no-repeat;
 display:inline-block;
-color:#6f0b46;
+color:#000000;
 font-size:14px;
 padding-top:16px;
 text-align:center;
@@ -814,6 +816,7 @@ display:inline-block;
 
 	margin:  0  0 20px 0;
 	padding: 0;
+
 	list-style: none;
 	display: block;
 	text-align: center;
@@ -2062,7 +2065,7 @@ border-top:1px dashed #7fa100;
 {
 font-family:"oswald";
 font-size:48px;
-color:#8e1c5a;
+color:#7fa100;
 text-transform:uppercase;
 text-align:left;
 margin-top:30px;
@@ -2078,7 +2081,7 @@ text-transform:uppercase;
 }
 
 .columnheadlineabout2 h4{
-color:#7d1d55;
+color:#7fa100;
 font-size:24px;
 text-transform:none;
 
@@ -2387,7 +2390,7 @@ margin-bottom:0;
 }
 
 .tabs1 li{
-background:#65043d;
+background:#8aa203;
 float:left;
 display:inline-block;
 border-radius:4px;
@@ -2419,12 +2422,12 @@ padding-bottom:42px;
 
 
 .tabinside h4{
-color:#7d1d55;
+color:#7fa100;
 font-size:24px;
 margin-bottom:21px;
 }
 .tabinside h5{
-color:#7d1d55;
+color:#7fa100;
 font-size:18px;
 margin-bottom:21px;
 margin-top:21px;
@@ -2809,7 +2812,7 @@ display:inline;
 paddng-right:50px;
 font-family:oswald;
 font-size:24px;
-color:#7d1d55;
+color:#7fa100;
 }
 
 .servicehour p{
@@ -2820,7 +2823,7 @@ font-size:24px;
 color:#7d1d55;
 }
 img.alignnone {
-display:none;
+/*display:none;*/
 }
 
 /*Extra css*/
@@ -2972,7 +2975,7 @@ color: #7fa100;
 font-style:bold;
 }
 .tabinside a img{
-display:none;
+/*display:none;*/
 }
 .sidebarabout1 li a{
 color:#7fa100;
