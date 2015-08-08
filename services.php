@@ -147,13 +147,11 @@
 
 <div class="span12  tabinside">
 
-
+<h4><a href="<?php the_permalink(); ?>"><?php the_title();?></a></h4>
 
 <div class="row">
 
 <div class="span3">
-
-	<h4><?php the_title();?></h4>
 
 <ul class="ch-grid4">
 <li>
@@ -167,7 +165,11 @@
 </div>
 
 <div class="span7">
-<p><?php the_content(); ?></p>
+<h6>- <?php the_title();?> -</h6>
+
+<p>
+<?php the_content(); ?>
+</p>
 
 <div class="buypresent2text1">
 </div> <!--/buypresenttext end--> 

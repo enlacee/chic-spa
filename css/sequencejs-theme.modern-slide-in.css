@@ -178,23 +178,23 @@ margin-top:-2%;
   transition-duration: 1s;
 }
 .sequence-theme h2{
-color:#f9c68a;
+color:#ffffff;
 font-size:48px;
 text-transform:uppercase;
 }
 
 .sequence-theme h3{
 font-family:oswald, "bebas neue";
-color:#eee1d1;
+color:#000000;
 font-size:24px;
 text-transform:uppercase;
 }
 .sequence-theme p{
-color:#eee1d1;
-font-size:14px;
+color:#ffffff;
+font-size:25px;
 }
 .sequence-theme p span{
-color:#f9c68a;
+color:#ffffff;
 }
 
 

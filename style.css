@@ -2977,6 +2977,10 @@ font-style:bold;
 .tabinside a img{
 /*display:none;*/
 }
+
+.tabinside a img:nth-child(2){
+border:1px solid red;
+}
 .sidebarabout1 li a{
 color:#7fa100;
 } 
