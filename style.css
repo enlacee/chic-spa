@@ -2422,12 +2422,12 @@ padding-bottom:42px;
 
 
 .tabinside h4{
-color:#7fa100;
+color:#7d1d55;
 font-size:24px;
 margin-bottom:21px;
 }
 .tabinside h5{
-color:#7fa100;
+color:#7d1d55;
 font-size:18px;
 margin-bottom:21px;
 margin-top:21px;
@@ -2976,10 +2976,6 @@ font-style:bold;
 }
 .tabinside a img{
 /*display:none;*/
-}
-
-.tabinside a img:nth-child(2){
-border:1px solid red;
 }
 .sidebarabout1 li a{
 color:#7fa100;
